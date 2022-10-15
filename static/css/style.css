@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* .main{
+    width: 672px;
+    height: 672px;
+    margin: 0 auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+} */
+
+.box1 {
+    width: 80px;
+    height: 80px;
+}
+
+.box2 {
+    width: 80px;
+    height: 80px;
+}
